@@ -1,10 +1,10 @@
-# 🔥 Task Tracker App
+#  Task Tracker App
 ### VIKNESH V | RD INFRO TECHNOLOGY — Full Stack Internship
 #### Task 1: Requirement Analysis & Project Setup
 
 ---
 
-## 👨‍💻 About This Project
+##  About This Project
 
 A full-stack Task Tracker application built from scratch by **VIKNESH V** as part of the
 RD INFRO TECHNOLOGY Full Stack Development Internship (Task 1).
@@ -14,7 +14,7 @@ Unlike a basic to-do list, this app includes **priority levels** (High / Medium 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer     | Technology                        |
 |-----------|-----------------------------------|
@@ -25,7 +25,7 @@ Unlike a basic to-do list, this app includes **priority levels** (High / Medium 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 viknesh-todo/
@@ -57,7 +57,7 @@ viknesh-todo/
 
 ---
 
-## ⚙️ Setup & Run
+##  Setup & Run
 
 ### Step 1 — MySQL Setup
 Open MySQL and run:
@@ -85,7 +85,7 @@ Visit: **http://localhost:3000**
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 ### `backend/.env`
 ```
@@ -103,7 +103,7 @@ REACT_APP_API_URL=http://localhost:5000/api
 
 ---
 
-## 🚀 API Reference
+##  API Reference
 
 | Method | Endpoint          | Body Fields                              | Description       |
 |--------|-------------------|------------------------------------------|-------------------|
@@ -115,21 +115,18 @@ REACT_APP_API_URL=http://localhost:5000/api
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔴 Priority levels: High / Medium / Low with color badges
-- 🔥 Sunset Orange & Red custom dark theme
-- 📊 Live stats: Total / Pending / Done counter
-- 🔔 Toast notifications for all actions
-- 🔍 Filter tabs: All / Pending / Done
-- 📱 Responsive design for mobile & desktop
-- 🔒 `.env` excluded from Git (credentials safe)
+-  Priority levels: High / Medium / Low with color badges
+- Sunset Orange & Red custom dark theme
+-  Live stats: Total / Pending / Done counter
+-  Toast notifications for all actions
+-  Filter tabs: All / Pending / Done
+-  Responsive design for mobile & desktop
+-  `.env` excluded from Git (credentials safe)
 
 ---
 
-## 👤 Author
+##  Author
 
 **VIKNESH V**
-RD INFRO TECHNOLOGY — Full Stack Development Intern
-
-`#RDINFROTECH` `#internship44`
